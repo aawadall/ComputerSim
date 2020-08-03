@@ -1,0 +1,9 @@
+D:\Projects\sims\computers\exp1\Sim\Sim\bin\Debug\netcoreapp3.1\CpuSim.deps.json
+D:\Projects\sims\computers\exp1\Sim\Sim\bin\Debug\netcoreapp3.1\CpuSim.dll
+D:\Projects\sims\computers\exp1\Sim\Sim\bin\Debug\netcoreapp3.1\CpuSim.pdb
+D:\Projects\sims\computers\exp1\Sim\Sim\obj\Debug\netcoreapp3.1\CpuSim.csprojAssemblyReference.cache
+D:\Projects\sims\computers\exp1\Sim\Sim\obj\Debug\netcoreapp3.1\CpuSim.AssemblyInfoInputs.cache
+D:\Projects\sims\computers\exp1\Sim\Sim\obj\Debug\netcoreapp3.1\CpuSim.AssemblyInfo.cs
+D:\Projects\sims\computers\exp1\Sim\Sim\obj\Debug\netcoreapp3.1\CpuSim.csproj.CoreCompileInputs.cache
+D:\Projects\sims\computers\exp1\Sim\Sim\obj\Debug\netcoreapp3.1\CpuSim.dll
+D:\Projects\sims\computers\exp1\Sim\Sim\obj\Debug\netcoreapp3.1\CpuSim.pdb

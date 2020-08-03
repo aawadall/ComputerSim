@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpuSim", "Sim\CpuSim.csproj", "{BA9E41E9-5194-4716-B668-ED3C7FACDBB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimCli", "SimCli\SimCli.csproj", "{40C02B0A-E3EC-4280-9406-92A6CF759460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanelSim", "PanelSim\PanelSim.csproj", "{50B186C4-9180-4A3A-9C2D-876C9C5EE53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9E41E9-5194-4716-B668-ED3C7FACDBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9E41E9-5194-4716-B668-ED3C7FACDBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9E41E9-5194-4716-B668-ED3C7FACDBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9E41E9-5194-4716-B668-ED3C7FACDBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C02B0A-E3EC-4280-9406-92A6CF759460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C02B0A-E3EC-4280-9406-92A6CF759460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C02B0A-E3EC-4280-9406-92A6CF759460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C02B0A-E3EC-4280-9406-92A6CF759460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B186C4-9180-4A3A-9C2D-876C9C5EE53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B186C4-9180-4A3A-9C2D-876C9C5EE53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B186C4-9180-4A3A-9C2D-876C9C5EE53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B186C4-9180-4A3A-9C2D-876C9C5EE53B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08A7E3CE-33CD-4E7B-AF3C-E1ED34C141DB}
+	EndGlobalSection
+EndGlobal

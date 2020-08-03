@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SimCli/1.0.0": {
+        "dependencies": {
+          "CpuSim": "1.0.0",
+          "PanelSim": "1.0.0"
+        },
+        "runtime": {
+          "SimCli.dll": {}
+        }
+      },
+      "CpuSim/1.0.0": {
+        "runtime": {
+          "CpuSim.dll": {}
+        }
+      },
+      "PanelSim/1.0.0": {
+        "runtime": {
+          "PanelSim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimCli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CpuSim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PanelSim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

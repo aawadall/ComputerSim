@@ -1,0 +1,9 @@
+D:\Projects\sims\computers\exp1\Sim\PanelSim\bin\Debug\netcoreapp3.1\PanelSim.deps.json
+D:\Projects\sims\computers\exp1\Sim\PanelSim\bin\Debug\netcoreapp3.1\PanelSim.dll
+D:\Projects\sims\computers\exp1\Sim\PanelSim\bin\Debug\netcoreapp3.1\PanelSim.pdb
+D:\Projects\sims\computers\exp1\Sim\PanelSim\obj\Debug\netcoreapp3.1\PanelSim.csprojAssemblyReference.cache
+D:\Projects\sims\computers\exp1\Sim\PanelSim\obj\Debug\netcoreapp3.1\PanelSim.AssemblyInfoInputs.cache
+D:\Projects\sims\computers\exp1\Sim\PanelSim\obj\Debug\netcoreapp3.1\PanelSim.AssemblyInfo.cs
+D:\Projects\sims\computers\exp1\Sim\PanelSim\obj\Debug\netcoreapp3.1\PanelSim.csproj.CoreCompileInputs.cache
+D:\Projects\sims\computers\exp1\Sim\PanelSim\obj\Debug\netcoreapp3.1\PanelSim.dll
+D:\Projects\sims\computers\exp1\Sim\PanelSim\obj\Debug\netcoreapp3.1\PanelSim.pdb
