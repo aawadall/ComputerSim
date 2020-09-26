@@ -1,0 +1,9 @@
+D:\Projects\sims\computers\exp1\Sim\IC\obj\Debug\netstandard2.0\IC.csprojAssemblyReference.cache
+D:\Projects\sims\computers\exp1\Sim\IC\obj\Debug\netstandard2.0\IC.AssemblyInfoInputs.cache
+D:\Projects\sims\computers\exp1\Sim\IC\obj\Debug\netstandard2.0\IC.AssemblyInfo.cs
+D:\Projects\sims\computers\exp1\Sim\IC\obj\Debug\netstandard2.0\IC.csproj.CoreCompileInputs.cache
+D:\Projects\sims\computers\exp1\Sim\IC\bin\Debug\netstandard2.0\IC.deps.json
+D:\Projects\sims\computers\exp1\Sim\IC\bin\Debug\netstandard2.0\IC.dll
+D:\Projects\sims\computers\exp1\Sim\IC\bin\Debug\netstandard2.0\IC.pdb
+D:\Projects\sims\computers\exp1\Sim\IC\obj\Debug\netstandard2.0\IC.dll
+D:\Projects\sims\computers\exp1\Sim\IC\obj\Debug\netstandard2.0\IC.pdb
